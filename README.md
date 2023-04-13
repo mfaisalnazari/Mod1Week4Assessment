@@ -1,7 +1,7 @@
 # Mod1 Week4 Assessment
 This assessment has two parts - some questions about this week's lessons, and an exercise focused on our Testing lesson. Work on the Questions first, then move on to the Exercise!
 
-## Setup
+## Set Up
 
 Fork this repository!
 
