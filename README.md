@@ -6,7 +6,13 @@ This assessment has two parts - some questions about this week's lessons, and an
 Fork this repository!
 
 ## Questions (12 Points Possible)
-Edit this `README.md` file - answer the BLANK questions before moving on to the exercise.  Make sure to SAVE your changes to the README before moving on!
+Edit this `README.md` file - answer the 6 questions before moving on to the exercise.  Make sure to save your changes to the README before moving on to the exercises!
+
+To Edit the README:
+* click the pencil icon in the upper right corner.
+* make changes in the text editor.
+* save your changes by clicking 'Commit Changes'
+    * on the confirmation screen, click 'Commit Changes'
 
 1. Review the class definition below:
     ```c#
@@ -40,7 +46,7 @@ Edit this `README.md` file - answer the BLANK questions before moving on to the 
 
 5. When you create a test project, you do not immediately have access to the class(es) in the project that you are testing.  What do you need to do in order to have access to those classes?
 
-6. Take a look at the class below.  Write out the **names** of each test you would write to verify that this class is working.
+6. Take a look at the class below.  Write out the **names** of each test you would write to verify that this class is working. You do not need to write the whole test, just what you would **name** the test methods. Ex: `IsCreatedWithTwoArguments()`
 ```c#
     public class Vehicle
     {
@@ -81,7 +87,7 @@ In this solution, there is a `Vehicle` project and a `Vehicle.UnitTests` project
 
 ### Submission
 
-When completed, commit the progress you have made, and push your project to GitHub.  Instructors will be following up with some video feedback!
+When the assessment is due, your instructors will show you how to commit the code you worked on in Visual Studio and push it up to GitHub :) 
 
 ### Rubric
 
