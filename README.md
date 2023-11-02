@@ -38,19 +38,19 @@ To Edit the README:
     B. `Chair bench = new Chair(24, true);`  
     C. `var bench = new(24, true);`  
     D. `Chair bench = new(24, true);`  
-    
+    option C, because we don't tell it what type of instance we are creating.
     
 2. Imagine you are interviewing for your first job.  The interviewer asks "What can you tell me about OOP?".  Write your response below:
-
+Object Oriented Programming, is one of the popular style or type of programming, it relies on objects to organize programs in to simple and reuseble code, That allows us to hold related information in a seperate class also to hide more complex functionality of a program from the user and make the the code more tidier and efficient.
 
 3. What is Automated Testing?
-
+testing the funcionality of a program or project with a separate project that the we create in addition to the actual project, which tests if the actual project is functioning as expected
 
 4. What are some benefits of creating tests for our projects?
-
+it is time efficient and we can test the program before completing it, also it provides feedback based on expected behaviour of the program. 
 
 5. When you create a test project, you do not immediately have access to the class(es) in the project that you are testing.  What do you need to do in order to have access to those classes?
-
+in visual studio you create a reference between your actual project and test project.
 6. Take a look at the class below.  Write out the **names** of each test you would write to verify that this class is working. You do not need to write the whole test, just what you would **name** the test methods. Ex: `IsCreatedWithTwoArguments()`
 ```c#
     public class Vehicle
@@ -83,7 +83,10 @@ To Edit the README:
         }
     }
 ```
-
+1st  , IsCreatedWithTwoArguments()
+2nd , IfSummaryPrintsWithCorrectAttributes().
+3rd, IfDriveAddsMiles().
+4th, IfPaintChangesColor().
 
 
 ## Exercise (8 Points Possible)
