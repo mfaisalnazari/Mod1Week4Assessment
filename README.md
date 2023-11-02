@@ -3,7 +3,7 @@ This assessment has two parts - some questions about this week's lessons, and an
 
 ## Set Up
 
-Fork this repository!
+Fork this repository! (Don't clone it yet!!)
 
 ## Questions (12 Points Possible)
 Edit this `README.md` file - answer the 6 questions before moving on to the exercise.  Make sure to save your changes to the README before moving on to the exercises!
