@@ -1,6 +1,8 @@
 # Mod1 Week4 Assessment
 This assessment has two parts - some questions about this week's lessons, and an exercise focused on our Testing lesson. Work on the Questions first, then move on to the Exercise!
 
+During this assessment, you may use most other resource besides your fellow students.  Feel free to google, look back at your notes, lessons, labs, etc... **you may not use Chat GPT or any other AI tool**
+
 ## Set Up
 
 Fork this repository! (Don't clone it yet!!)
